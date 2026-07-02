@@ -30,7 +30,7 @@ tags: [机场, 专线机场, IPLC, IEPL, 流媒体, ChatGPT, 晚高峰稳定性]
 
 ### 1. Nice 加速（专线机场推荐 / ChatGPT / 流媒体）
 
-- **官网**：[https://www.nicecc.cc/#/register?code=AX6CcxZn](https://www.nicecc.cc/#/register?code=AX6CcxZn)
+- **官网**：[https://www.nicecc.cc](https://www.nicecc.cc/#/register?code=AX6CcxZn)
 - **定位**：2026 综合首选，新手友好型专线机场。
 - **套餐**：起步套餐 30G/月，¥10 起；其他套餐以官网实时页面为准。
 - **线路**：覆盖香港、日本、新加坡、美国等主流地区，适合日常代理、AI 工具和流媒体。
