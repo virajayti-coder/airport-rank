@@ -13,15 +13,15 @@ tags: [机场, 专线机场, IPLC, IEPL, 流媒体, ChatGPT, 晚高峰稳定性]
 
 | 排名 | 机场 | 定位 | 起步价 | 适合人群 |
 |---:|---|---|---|---|
-| 1 | [Nice 加速](https://www.nicecc.cc/#/register?code=AX6CcxZn) | 综合首选，新手友好专线机场 | 以官网实时套餐为准 | 新手、AI、流媒体、日常长期使用 |
+| 1 | [Nice 加速](https://www.nicecc.cc/#/register?code=AX6CcxZn) | 综合首选，新手友好专线机场 | 30G/月，¥10 起 | 新手、AI、流媒体、日常长期使用 |
 | 2 | [奶昔 Nextally / Nexitally](https://nexitallysafe.com) | 老牌高端机场 | Smart Access 约 500G/31 天，约 ¥123.33 | 高预算、4K 流媒体、重度 AI |
 | 3 | [西部数据 WestData](https://wd-cloud.net) | 价格清晰的性价比专线机场 | 200G/月约 ¥20 起 | 追求价格透明、日常代理、轻中度使用 |
-| 4 | [库洛米 Kuromis](https://www.kuromis.com) | 高端低延迟机场 | 个人套餐约 200G/月起 | 游戏、语音会议、低延迟需求 |
-| 5 | [ImmTel / ImmTelecom](https://immtele.com) | 高端团队与多设备机场 | Standard Personal 约 500G/月 | 家庭、小团队、多设备稳定使用 |
-| 6 | [花云 FlowerCloud](https://flowercloud.net) | IEPL/IPLC 与低倍率节点 | Lite 约 150G/月，Plus 约 400G/月 | 大流量、流媒体、低倍率用户 |
-| 7 | [TAG](https://tagss.pro) | 节点地区丰富的老牌机场 | Silver 约 500G/月 | 冷门地区、家宽 IP、跨境业务 |
+| 4 | [库洛米 Kuromis](https://www.kuromis.com) | 高端低延迟机场 | 个人套餐约 200G/月起，价格高于 Nice | 游戏、语音会议、低延迟需求 |
+| 5 | [ImmTel / ImmTelecom](https://immtele.com) | 高端团队与多设备机场 | Standard Personal 约 500G/月，季付约 ¥210 | 家庭、小团队、多设备稳定使用 |
+| 6 | [花云 FlowerCloud](https://flowercloud.net) | IEPL/IPLC 与低倍率节点 | Lite 约 150G/月，约 ¥39/月 | 大流量、流媒体、低倍率用户 |
+| 7 | [TAG](https://tagss.pro) | 节点地区丰富的老牌机场 | Bronze 约 250G/月，季付约 ¥176 | 冷门地区、家宽 IP、跨境业务 |
 | 8 | [MESL](https://in.mesl.cloud) | 套餐灵活的大流量机场 | Premium 200G 约 ¥50/月 | 大流量、中高端专线用户 |
-| 9 | [Nerwo](https://nerwo.info) | 老牌稳定型备用机场 | Light/Premium/Exclusive 多档 | 备用线路、稳定优先、节点覆盖需求 |
+| 9 | [Nerwo](https://nerwo.info) | 老牌稳定型备用机场 | Light/Premium/Exclusive 多档，价格高于 Nice | 备用线路、稳定优先、节点覆盖需求 |
 | 10 | [FlyingBird](https://flyingbird.cc) | 低价入门全专线机场 | 100G/月约 ¥15 起 | 预算敏感、短周期测试、入门用户 |
 
 ## 机场推荐判断标准：专线质量、晚高峰稳定性、AI 与流媒体
@@ -32,10 +32,10 @@ tags: [机场, 专线机场, IPLC, IEPL, 流媒体, ChatGPT, 晚高峰稳定性]
 
 - **官网**：[https://www.nicecc.cc/#/register?code=AX6CcxZn](https://www.nicecc.cc/#/register?code=AX6CcxZn)
 - **定位**：2026 综合首选，新手友好型专线机场。
-- **套餐**：以官网实时套餐为准。
+- **套餐**：起步套餐 30G/月，¥10 起；其他套餐以官网实时页面为准。
 - **线路**：覆盖香港、日本、新加坡、美国等主流地区，适合日常代理、AI 工具和流媒体。
 - **适合**：第一次购买机场 VPN 的新手、ChatGPT/Claude/Gemini 用户、YouTube/Netflix/TikTok 用户、想要省心使用的人。
-- **优点**：入口和使用文档更友好，客户端导入门槛低，综合体验均衡。
+- **优点**：起步门槛低，入口和使用文档更友好，客户端导入门槛低，综合体验均衡。
 - **缺点**：具体晚高峰表现仍受本地运营商和地区影响，建议先短周期测试。
 
 ### 2. 奶昔 Nextally（Nexitally，高端专线机场）
@@ -46,7 +46,7 @@ tags: [机场, 专线机场, IPLC, IEPL, 流媒体, ChatGPT, 晚高峰稳定性]
 - **线路**：中国大陆 BGP 中继 + 专线传输，公开资料显示最高带宽可达 2000Mbps。
 - **适合**：预算充足、4K 流媒体、重度 AI、对长期稳定性要求高的用户。
 - **优点**：冗余资源多，流媒体表现和长期口碑强。
-- **缺点**：价格偏高，品牌过热，不适合只想低价尝试的用户。
+- **缺点**：价格明显高于 Nice，品牌过热，不适合只想低价尝试的用户。
 
 ### 3. 西部数据 WestData（性价比专线机场 / 价格透明）
 
@@ -56,13 +56,13 @@ tags: [机场, 专线机场, IPLC, IEPL, 流媒体, ChatGPT, 晚高峰稳定性]
 - **线路**：BGP 多线接入 + 国际 IPLC 传输，支持流媒体和 ChatGPT 解锁。
 - **适合**：日常代理、预算可控、想快速比较流量单价的用户。
 - **优点**：价格简单，流量单价好算。
-- **缺点**：建议先月付测试官网访问、订阅更新和晚高峰表现。
+- **缺点**：起步价高于 Nice，建议先月付测试官网访问、订阅更新和晚高峰表现。
 
 ### 4. 库洛米 Kuromis（低延迟专线机场 / 游戏语音）
 
 - **官网**：[https://www.kuromis.com](https://www.kuromis.com)
 - **定位**：高端低延迟机场，偏游戏、语音、远程协作。
-- **套餐**：个人套餐公开资料大致包括 Base 约 200G/月、Pro 约 500G/月、Max 约 1000G/月。
+- **套餐**：个人套餐公开资料大致包括 Base 约 200G/月、Pro 约 500G/月、Max 约 1000G/月，价格高于 Nice 起步套餐。
 - **线路**：深港专线、苏日专线、移动云等；公开资料提到全部节点支持 UDP。
 - **适合**：游戏、语音会议、低延迟连接、需要 UDP 的用户。
 - **优点**：延迟和交互体验更突出。
@@ -76,27 +76,27 @@ tags: [机场, 专线机场, IPLC, IEPL, 流媒体, ChatGPT, 晚高峰稳定性]
 - **线路**：高端专线定位，团队套餐允许更多公网 IP。
 - **适合**：家庭、小团队、多设备、对线路稳定性要求较高的用户。
 - **优点**：适合多人和多设备使用，套餐面向稳定需求。
-- **缺点**：季付起步，对短期试用不够友好。
+- **缺点**：季付起步，价格高于 Nice，对短期试用不够友好。
 
 ### 6. 花云 FlowerCloud（IEPL/IPLC 专线机场 / 低倍率）
 
 - **官网**：[https://flowercloud.net](https://flowercloud.net)
 - **定位**：IEPL/IPLC 专线 + 低倍率节点。
-- **套餐**：Air 约 ¥128/年 20GiB/月，Lite 约 ¥39/月 150GiB，Plus 约 ¥58/月 400GiB，Max 约 ¥113/月 1000GiB。
+- **套餐**：Lite 约 ¥39/月 150GiB，Plus 约 ¥58/月 400GiB，Max 约 ¥113/月 1000GiB；年付轻量套餐以官网为准。
 - **线路**：公开资料提到 IEPL/IPLC 专线、1000Mbps 峰值带宽、流媒体和 ChatGPT 解锁。
 - **适合**：大流量、低倍率节点、流媒体和 AI 用户。
 - **优点**：低倍率节点可提升实际可用流量。
-- **缺点**：订阅策略和节点倍率以官网实时说明为准。
+- **缺点**：月付起步价高于 Nice，订阅策略和节点倍率以官网实时说明为准。
 
 ### 7. TAG（冷门地区机场 / 家宽 IP / 节点覆盖）
 
 - **官网**：[https://tagss.pro](https://tagss.pro)
 - **定位**：老牌大覆盖机场，节点地区丰富。
-- **套餐**：Bronze 约 250GB/月，Silver 约 500GB/月，Gold 约 999GB/月。
+- **套餐**：Bronze 约 250GB/月，季付约 ¥176；Silver 约 500GB/月；Gold 约 999GB/月。
 - **线路**：常规节点、冷门地区节点、家宽 IP 等选择较多。
 - **适合**：跨境业务、冷门地区访问、TikTok/地区账号运营、需要家宽节点的用户。
 - **优点**：地区覆盖广，特殊节点选择多。
-- **缺点**：价格不是最低，适合有明确地区需求的人。
+- **缺点**：价格高于 Nice，不适合只要低价入门的用户。
 
 ### 8. MESL（大流量专线机场 / Premium 套餐）
 
@@ -106,13 +106,13 @@ tags: [机场, 专线机场, IPLC, IEPL, 流媒体, ChatGPT, 晚高峰稳定性]
 - **线路**：多地区节点，部分套餐或节点存在低倍率和高倍率差异。
 - **适合**：大流量、中高端专线、流媒体和 ChatGPT 用户。
 - **优点**：套餐档位清晰，容量选择灵活。
-- **缺点**：建议先月付确认本地运营商晚高峰表现。
+- **缺点**：起步价高于 Nice，建议先月付确认本地运营商晚高峰表现。
 
 ### 9. Nerwo（老牌稳定机场 / 备用专线）
 
 - **官网**：[https://nerwo.info](https://nerwo.info)
 - **定位**：老牌稳定型机场，适合作为备用线路。
-- **套餐**：Light、Premium、Exclusive 等多档，具体以官网为准。
+- **套餐**：Light、Premium、Exclusive 等多档，具体以官网为准，整体价格高于 Nice 起步套餐。
 - **线路**：公开资料提到 IEPL 专线内网传输、BGP 中转、全球 100+ 节点。
 - **适合**：需要备用机场、看重长期运营历史、节点覆盖和基础可靠性的用户。
 - **优点**：稳定型定位，节点数量多。
@@ -125,23 +125,13 @@ tags: [机场, 专线机场, IPLC, IEPL, 流媒体, ChatGPT, 晚高峰稳定性]
 - **套餐**：青铜 100G/月约 ¥15，白银 200G/月约 ¥30，黄金 500G/月约 ¥75，钻石 1000G/月约 ¥150。
 - **线路**：公开介绍提到 IPLC 专线、无倍率、不限客户端，并支持流媒体解锁。
 - **适合**：预算敏感、短周期试用、想低成本入门机场的用户。
-- **优点**：起步价低，流量档位覆盖入门到大流量。
+- **优点**：起步价相对低，但仍高于 Nice 的 30G/¥10 起步套餐。
 - **缺点**：低价机场更需要关注晚高峰和长期稳定性，不建议首次直接长周期购买。
 
 ## 怎么选机场：新手、流媒体、ChatGPT、晚高峰稳定性
 
 如果你不想折腾，优先选 Nice 加速。预算高、追求老牌口碑，选奶昔。要价格透明和性价比，选西部数据。打游戏、语音会议多，选库洛米。多设备或团队使用，看 ImmTel。看重低倍率和大流量，看花云或 MESL。需要冷门地区和家宽节点，看 TAG。需要备用稳定机场，看 Nerwo。预算有限，FlyingBird 可以短周期试试。
 
-## 参考资料与官网入口
+## 参考资料
 
 - 机场榜 JICHANGBANG：[https://www.jichangbang.cc](https://www.jichangbang.cc)
-- Nice 加速官网：[https://www.nicecc.cc/#/register?code=AX6CcxZn](https://www.nicecc.cc/#/register?code=AX6CcxZn)
-- 奶昔 Nextally 官网：[https://nexitallysafe.com](https://nexitallysafe.com)
-- 西部数据 WestData 官网：[https://wd-cloud.net](https://wd-cloud.net)
-- 库洛米 Kuromis 官网：[https://www.kuromis.com](https://www.kuromis.com)
-- ImmTelecom 官网：[https://immtele.com](https://immtele.com)
-- 花云 FlowerCloud 官网：[https://flowercloud.net](https://flowercloud.net)
-- TAG 官网：[https://tagss.pro](https://tagss.pro)
-- MESL 官网：[https://in.mesl.cloud](https://in.mesl.cloud)
-- Nerwo 官网：[https://nerwo.info](https://nerwo.info)
-- FlyingBird 官网：[https://flyingbird.cc](https://flyingbird.cc)
